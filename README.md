@@ -36,12 +36,9 @@ That’s how **Android ADB Backup Tool** was born.
 ---
 
 ### 🖼️ Screenshot
-
 *(You can add a screenshot of your Tkinter window here — e.g., `screenshot.png`)*
 
-```md
 ![App Screenshot](./screenshot.png)
-```
 
 ---
 
