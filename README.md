@@ -169,8 +169,8 @@ Feel free to fork this repo and submit pull requests.
 
 **Programming with Asad**
 🎥 YouTube: [Programming with Asad](https://youtube.com/@programmingwithasad)
-💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
+💼 LinkedIn: [My LinkedIn Profile](https://linkedin.com/in/asadanik)
+📧 Email: [engr.asadanik@gmail.com](mailto:engr.asadanik@gmail.com)
 
 ---
 
